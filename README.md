@@ -1,5 +1,5 @@
 
 ## Compiling
 ```bash
-typst c resume.pdf
+typst c resume.typ
 ```
