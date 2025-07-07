@@ -28,12 +28,12 @@
 
 #resume-skill-item(
   "Languages",
-  (strong("Rust"), strong("TypeScript"), "C++", "Python", "Java", "Bash"),
+  (strong("Rust"), strong("TypeScript"), strong("C++"), strong("Python"), "Java", "Bash"),
 )
 #resume-skill-item("Operating Systems", (strong("Linux (Debian, NixOS, Arch Linux)"), "Windows"))
 #resume-skill-item(
   "Programs",
-  (strong("Vim"), strong("Git"), strong("Docker"), strong("Nginx"), strong("React"), strong("GraphQL"), strong("MongoDB"), strong("Postgres"), strong("NextJS"), strong("Nix"), strong("Jira"), strong("Latex"), "Excel", "Word"),
+  (strong("Vim"), strong("Git"), strong("Docker"), strong("Nginx"), strong("React"), strong("GraphQL"), strong("MongoDB"), strong("Postgres"), strong("NextJS"), strong("Nix"), strong("Jira"), strong("Latex"), "Excel"),
 )
 #resume-skill-item("Spoken Languages", (strong("English"), "Hindi", "Telugu"))
 
@@ -43,10 +43,11 @@
 
 #resume-entry(
   title: "Full-Stack Software Developer",
-  location: "Ultimo, NSW",
+  location: "Gecko.rent",
   date: "Nov. 2022 - July 2023",
-  description: "Gecko.rent",
+  description: "Rental Business SaaS"
 )
+#v(5pt)
 
 _Responsibilities_
 #resume-item[
@@ -62,10 +63,11 @@ _Achievements_
 
 #resume-entry(
   title: "Research Assistant",
-  location: "Ultimo, NSW",
+  location: "University of Technology Sydney",
   date: "Mar. 2024 - Present",
-  description: "UTS",
+  description: "Software Architecture, DevOps, System Administration"
 )
+#v(5pt)
 
 _Responsibilities_
 #resume-item[
@@ -76,17 +78,18 @@ _Responsibilities_
 
 _Achievements_
 #resume-item[
-  - Set up and configured a workstation machine with linux for professional data analytics usage, with xRDP and secure access control mechanisms.
+  - Configured a workstation server with Linux to be available remotely for professional data analytics usage.
   - Developed a full-stack web application to demonstrate water sensing results, including detailed charts such as contour diagrams that are updated in real time. 
   - Currently working on a project involving Software Defined Radios (SDRs).
 ]
 
 #resume-entry(
   title: "Casual Academic",
-  location: "Ultimo, NSW",
+  location: "University of Technology Sydney",
   date: "Feb. 2025 - Present",
-  description: "UTS",
+  description: "Introductory Embedded Systems Tutor"
 )
+#v(5pt)
 
 _Responsibilities_
 #resume-item[
